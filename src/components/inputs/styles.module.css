@@ -1,0 +1,12 @@
+.container {
+  border: 2px solid #bcbcbc;
+  padding: 3px;
+  border-radius: 8px;
+}
+
+.container input {
+  border: none;
+  outline: none;
+  padding: 15px;
+  width: 100%;
+}
